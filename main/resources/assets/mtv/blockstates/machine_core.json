@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"type=basic": { "model": "mtv:core_basic" },
+		"type=advanced": { "model": "mtv:core_advanced" },
+		"type=superior": { "model": "mtv:core_superior" }
+	}
+}

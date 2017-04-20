@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"type=overworld": { "model": "mtv:zinc_ore_overworld" },
+		"type=nether": { "model": "mtv:zinc_ore_nether" },
+		"type=end": { "model": "mtv:zinc_ore_end" }
+	}
+}

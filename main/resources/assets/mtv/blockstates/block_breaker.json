@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"type=basic": { "model": "mtv:block_breaker_basic" },
+		"type=advanced": { "model": "mtv:block_breaker_advanced" },
+		"type=superior": { "model": "mtv:block_breaker_superior" }
+	}
+}

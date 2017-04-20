@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mtv",
+  "name": "More To Vanilla",
+  "description": "Adds More Items And Materials To Minecraft.",
+  "version": "1.0",
+  "mcversion": "1.11.2",
+  "url": "https://www.youtube.com/channel/UCvr9Xu10zP-X-fAsNvhd15Q",
+  "updateUrl": "",
+  "authorList": ["XFireEyeZ"],
+  "credits": "Myself.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

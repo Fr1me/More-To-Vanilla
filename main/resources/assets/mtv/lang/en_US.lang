@@ -1,0 +1,41 @@
+item.zinc_ingot.name=Zinc Ingot
+item.zinc_nugget.name=Zinc Nugget
+item.tin_ingot.name=Tin Ingot
+item.magnesium_ingot.name=Magnesium Ingot
+item.cutting_knife=Cutting Knife
+
+item.terminator.name=Terminator
+
+item.zinc_pickaxe.name=Zinc Pickaxe
+item.zinc_axe.name=Zinc Axe
+item.zinc_hoe.name=Zinc Hoe
+item.zinc_shovel.name=Zinc Shovel
+item.zinc_sword.name=Zinc Sword
+
+item.zinc_helmet.name=Zinc Helmet
+item.zinc_chestplate.name=Zinc Chestplate
+item.zinc_leggings.name=Zinc Leggings
+item.zinc_boots.name=Zinc Boots
+
+item.machine_core.basic.name=Basic Machine Core
+item.machine_core.advanced.name=Advanced Machine Core
+item.machine_core.superior.name=Superior Machine Core
+
+item.corn.name=Corn
+item.candy_cane.name=Candy Cane
+
+tile.tin_ore.overworld.name=Zinc Ore
+tile.tin_ore.nether.name=Zinc Ore
+tile.tin_ore.end.name=Zinc Ore
+
+tile.block_breaker.basic.name=Block Breaker (Basic)
+tile.block_breaker.advanced.name=Block Breaker (Advanced)
+tile.block_breaker.superior.name=Block Breaker (Superior)
+
+itemGroup.mtv=More To Vanilla
+
+achievement.zincArmor=Zinc Armor!
+achievement.zincArmor.desc=Get A Full Set Of Zinc Armor
+
+mtv.terminator.tooltip=Can Break The Toughest Of Blocks...
+mtv.candy_cane.tooltip=Gives The Consumer A Sugar Rush...
